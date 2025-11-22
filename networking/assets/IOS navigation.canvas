@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"05e240fc5480b248","x":-320,"y":-189,"width":240,"height":79,"color":"4","type":"text","text":"User exece mode `>`"},
+		{"id":"dcdff1693680d999","x":-119,"y":-80,"width":245,"height":97,"color":"3","type":"text","text":"Privileged exece mode `#`"},
+		{"id":"56cbb38a79c8a357","x":60,"y":40,"width":265,"height":80,"color":"2","type":"text","text":"Configuration Mode `(config) #`"}
+	],
+	"edges":[
+		{"id":"6a299bd76625840e","fromNode":"05e240fc5480b248","fromSide":"right","toNode":"dcdff1693680d999","toSide":"top"},
+		{"id":"04e794e803256ddb","fromNode":"dcdff1693680d999","fromSide":"right","toNode":"56cbb38a79c8a357","toSide":"top"}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "showInlineTitle": true,
+  "strictLineBreaks": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "offsec/PEN-103/introduction",
+  "tabSize": 4,
+  "readableLineLength": true
+}

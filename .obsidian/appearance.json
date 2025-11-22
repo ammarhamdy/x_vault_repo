@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true,
+  "showViewHeader": false,
+  "cssTheme": "Encore",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "better-tables"
+  ]
+}

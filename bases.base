@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: cards
+    cardSize: 290
+  - type: table
+    name: View
+    sort:
+      - property: file.name
+        direction: DESC

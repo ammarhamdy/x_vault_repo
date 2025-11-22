@@ -1,0 +1,19 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.95rem;
+  font-family: courier; 
+}
+
+thead {
+  background-color: #727272;
+  font: #050505;
+  font-weight: bold;
+}
+
+td, th {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+

@@ -1,0 +1,360 @@
+{
+  "main": {
+    "id": "676be3b6602ccf65",
+    "type": "split",
+    "children": [
+      {
+        "id": "3850175ee8c3a64f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c55a3cbdb93f467",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "portswigger/topics/server-side topics/Web cache deception.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Web cache deception"
+            }
+          },
+          {
+            "id": "baecbc687ff64128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nmap/reference guide/4.Port Scanning Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.Port Scanning Techniques"
+            }
+          },
+          {
+            "id": "540b7d7bd52be29c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "encoding/Polyglot file.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polyglot file"
+            }
+          },
+          {
+            "id": "8d61c6c965812302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/bash/black hat bash/6. gaining a web shell/3. Arbitrary File Upload Vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Arbitrary File Upload Vulnerabilities"
+            }
+          },
+          {
+            "id": "6e048a89c171e9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "packet analysis/practical packet analysis/7.network layer protocols/2.Internet Protocol (IP).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Internet Protocol (IP)"
+            }
+          },
+          {
+            "id": "f2bf0a8ff19f52aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "networking/CCNA V_7/Introduction to Networks/3. Protocols and Models/5. Reference Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Reference Models"
+            }
+          },
+          {
+            "id": "68bae2f794e9287c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Shell & CLI Utilities/less.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "less"
+            }
+          },
+          {
+            "id": "229aaeb9f583c7a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/Shell & CLI Utilities/pdftoppm (for converting pdf pages to images).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pdftoppm (for converting pdf pages to images)"
+            }
+          },
+          {
+            "id": "3367c705152c4d11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tools/android/adb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "adb"
+            }
+          },
+          {
+            "id": "1251f8f0226f2659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Word lists.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Word lists"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d21b0b4f26ac0524",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccc705737b5ab089",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6e8495df2536b78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "75498d4544bbbc0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:\"John the Ripper\"",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f4692d1730f0209",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "6094c04762176550",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "55119876cd034640",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d9c201f8ae4eab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "009026b55ba83844",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tools/FFmpeg deal with videos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for FFmpeg deal with videos"
+            }
+          },
+          {
+            "id": "7f4775f075ca7587",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tools/FFmpeg deal with videos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FFmpeg deal with videos"
+            }
+          },
+          {
+            "id": "4945cda45d767500",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "613187c1d9b5c0ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tools/Shell & CLI Utilities/less.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of less"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "1251f8f0226f2659",
+  "lastOpenFiles": [
+    "tools/android/Users on Android.md",
+    "tools/android/adb.md",
+    "portswigger/topics/server-side topics/Web cache deception.md",
+    "tools/android/aapt.md",
+    "tools/android/jadx.md",
+    "tools/android/apktool - Decompile the APK.md",
+    "tools/Shell & CLI Utilities/pdftoppm (for converting pdf pages to images).md",
+    "tools/Shell & CLI Utilities/pdfimages.md",
+    "linux/bash/shell scripts/looping with for.md",
+    "tools/network tools/hostapd & dnsmasq (for  hotspot).md",
+    "linux/bash/shell scripts/Branching with if.md",
+    "linux/bash/shell scripts/flow control (while loop).md",
+    "tools/develop/jq (json).md",
+    "linux/NDG Linux/10 Working With Text/text processing/tools/grep.md",
+    "tools/Shell & CLI Utilities/less.md",
+    "curl/Client URL (curl).md",
+    "linux/NDG Linux/9 Archiving and Compression/4. ZIP Files.md",
+    "performance/articles/Loading test.md",
+    "performance/articles/Goals of load testing.md",
+    "portswigger/topics/client-side topics/Web cache deception.md",
+    "offsec/PEN-103/introduction/Pasted image 20251028122208.png",
+    "tools/recon/dirsearch.md",
+    "tools/network tools/netdiscover.md",
+    "portswigger/topics/client-side topics/cross-site scripting (XSS)/5.XSS contexts.md",
+    "portswigger/topics/client-side topics/cross-site scripting (XSS)/2.Reflected XSS.md",
+    "portswigger/topics/client-side topics/cross-site scripting (XSS)/3.Stored XSS.md",
+    "portswigger/topics/client-side topics/cross-site scripting (XSS)/4.DOM-based XSS.md",
+    "scapy",
+    "bases.base",
+    "tools/system & hardware & desktop utilities/utilities",
+    "tools/system & hardware & desktop utilities/system monitoring",
+    "tools/system & hardware & desktop utilities/hardware utilities",
+    "tools/develop",
+    "tools/audio & metadata",
+    "tools/audio",
+    "tools/metadata editors",
+    "tools/media tools",
+    "offsec/PEN-103/introduction/Pasted image 20250918161225.png",
+    "offsec/PEN-103/introduction/Pasted image 20250828170130.png",
+    "offsec/PEN-103/introduction/Pasted image 20250828170116.png",
+    "offsec/PEN-103/introduction/Pasted image 20250828165952.png",
+    "offsec/PEN-103/introduction/Pasted image 20250828165640.png",
+    "offsec/PEN-103/introduction/Pasted image 20250828155647.png",
+    "offsec/PEN-103/introduction/e4d63bf8-9769-4e54-9ec9-852950d64694.png",
+    "offsec/PEN-103/introduction/Pasted image 20250820102934.png",
+    "postman/assets/Pasted image 20250308145410.png",
+    "networking/assets/SCTP-packet-structure.canvas",
+    "networking/assets/IOS navigation.canvas",
+    "nmap/Untitled.canvas"
+  ]
+}
