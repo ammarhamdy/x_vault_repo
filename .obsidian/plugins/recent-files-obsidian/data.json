@@ -1,24 +1,92 @@
 {
   "recentFiles": [
     {
-      "basename": "Word lists",
-      "path": "Word lists.md"
+      "basename": "pandoc",
+      "path": "tools/Shell & CLI Utilities/pandoc.md"
     },
     {
-      "basename": "Users on Android",
-      "path": "tools/android/Users on Android.md"
+      "basename": "eza",
+      "path": "tools/Shell & CLI Utilities/eza.md"
+    },
+    {
+      "basename": "hey",
+      "path": "performance/benchmarking/hey.md"
+    },
+    {
+      "basename": "less",
+      "path": "tools/Shell & CLI Utilities/less.md"
+    },
+    {
+      "basename": "mysql",
+      "path": "tools/develop/mysql.md"
+    },
+    {
+      "basename": "arp-scan",
+      "path": "tools/recon/arp-scan.md"
+    },
+    {
+      "basename": "netdiscover",
+      "path": "tools/network tools/netdiscover.md"
     },
     {
       "basename": "adb",
       "path": "tools/android/adb.md"
     },
     {
+      "basename": "aapt",
+      "path": "tools/android/aapt.md"
+    },
+    {
+      "basename": "Users on Android",
+      "path": "tools/android/Users on Android.md"
+    },
+    {
       "basename": "Web cache deception",
       "path": "portswigger/topics/server-side topics/Web cache deception.md"
     },
     {
-      "basename": "aapt",
-      "path": "tools/android/aapt.md"
+      "basename": "4.Port Scanning Techniques",
+      "path": "nmap/reference guide/4.Port Scanning Techniques.md"
+    },
+    {
+      "basename": "Polyglot file",
+      "path": "encoding/Polyglot file.md"
+    },
+    {
+      "basename": "2.Internet Protocol (IP)",
+      "path": "packet analysis/practical packet analysis/7.network layer protocols/2.Internet Protocol (IP).md"
+    },
+    {
+      "basename": "3. Arbitrary File Upload Vulnerabilities",
+      "path": "linux/bash/black hat bash/6. gaining a web shell/3. Arbitrary File Upload Vulnerabilities.md"
+    },
+    {
+      "basename": "5. Reference Models",
+      "path": "networking/CCNA V_7/Introduction to Networks/3. Protocols and Models/5. Reference Models.md"
+    },
+    {
+      "basename": "pdftoppm (for converting pdf pages to images)",
+      "path": "tools/Shell & CLI Utilities/pdftoppm (for converting pdf pages to images).md"
+    },
+    {
+      "basename": "Run emulator",
+      "path": "tools/android/Run emulator.md"
+    },
+    {
+      "basename": "Credentials",
+      "path": "portswigger/Credentials.md"
+    },
+    {
+      "basename": "Cheat sheet",
+      "path": "portswigger/Cheat sheet.md"
+    },
+    {
+      "basename": "__portswigger",
+      "path": "portswigger/topics/__portswigger.md"
+    },
+    {
+      "basename": "Word lists",
+      "path": "Word lists.md"
     },
     {
       "basename": "jadx",
@@ -27,10 +95,6 @@
     {
       "basename": "apktool - Decompile the APK",
       "path": "tools/android/apktool - Decompile the APK.md"
-    },
-    {
-      "basename": "pdftoppm (for converting pdf pages to images)",
-      "path": "tools/Shell & CLI Utilities/pdftoppm (for converting pdf pages to images).md"
     },
     {
       "basename": "pdfimages",
@@ -61,10 +125,6 @@
       "path": "linux/NDG Linux/10 Working With Text/text processing/tools/grep.md"
     },
     {
-      "basename": "less",
-      "path": "tools/Shell & CLI Utilities/less.md"
-    },
-    {
       "basename": "Client URL (curl)",
       "path": "curl/Client URL (curl).md"
     },
@@ -89,10 +149,6 @@
       "path": "tools/recon/dirsearch.md"
     },
     {
-      "basename": "netdiscover",
-      "path": "tools/network tools/netdiscover.md"
-    },
-    {
       "basename": "5.XSS contexts",
       "path": "portswigger/topics/client-side topics/cross-site scripting (XSS)/5.XSS contexts.md"
     },
@@ -109,32 +165,12 @@
       "path": "portswigger/topics/client-side topics/cross-site scripting (XSS)/4.DOM-based XSS.md"
     },
     {
-      "basename": "5. Reference Models",
-      "path": "networking/CCNA V_7/Introduction to Networks/3. Protocols and Models/5. Reference Models.md"
-    },
-    {
       "basename": "basics",
       "path": "scapy/basics.md"
     },
     {
-      "basename": "2.Internet Protocol (IP)",
-      "path": "packet analysis/practical packet analysis/7.network layer protocols/2.Internet Protocol (IP).md"
-    },
-    {
       "basename": "__scapy__",
       "path": "scapy/__scapy__.md"
-    },
-    {
-      "basename": "3. Arbitrary File Upload Vulnerabilities",
-      "path": "linux/bash/black hat bash/6. gaining a web shell/3. Arbitrary File Upload Vulnerabilities.md"
-    },
-    {
-      "basename": "Polyglot file",
-      "path": "encoding/Polyglot file.md"
-    },
-    {
-      "basename": "4.Port Scanning Techniques",
-      "path": "nmap/reference guide/4.Port Scanning Techniques.md"
     },
     {
       "basename": "Modify Terminal Prompt",
@@ -163,42 +199,6 @@
     {
       "basename": "wfuzz",
       "path": "tools/recon/wfuzz.md"
-    },
-    {
-      "basename": "5. Vulnerability scanning and fuzzing",
-      "path": "linux/bash/black hat bash/5. Vulnerability scanning and fuzzing.md"
-    },
-    {
-      "basename": "ffuf",
-      "path": "tools/recon/ffuf.md"
-    },
-    {
-      "basename": "CSRF PoC Generator (online tool)",
-      "path": "tools/recon/CSRF PoC Generator (online tool).md"
-    },
-    {
-      "basename": "8. local information gathering",
-      "path": "linux/bash/black hat bash/8. local information gathering.md"
-    },
-    {
-      "basename": "bases",
-      "path": "bases.base"
-    },
-    {
-      "basename": "rsmangler",
-      "path": "tools/security & encryption/rsmangler.md"
-    },
-    {
-      "basename": "crunch",
-      "path": "tools/security & encryption/crunch.md"
-    },
-    {
-      "basename": "2. Basic commands and directory hierarchy",
-      "path": "linux/How Linux Works/2. Basic commands and directory hierarchy.md"
-    },
-    {
-      "basename": "Terminal",
-      "path": "linux/ubuntu/Terminal.md"
     }
   ],
   "omittedPaths": [],

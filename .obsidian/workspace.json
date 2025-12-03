@@ -50,34 +50,6 @@
             }
           },
           {
-            "id": "8d61c6c965812302",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/bash/black hat bash/6. gaining a web shell/3. Arbitrary File Upload Vulnerabilities.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Arbitrary File Upload Vulnerabilities"
-            }
-          },
-          {
-            "id": "6e048a89c171e9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "packet analysis/practical packet analysis/7.network layer protocols/2.Internet Protocol (IP).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.Internet Protocol (IP)"
-            }
-          },
-          {
             "id": "f2bf0a8ff19f52aa",
             "type": "leaf",
             "state": {
@@ -97,58 +69,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Shell & CLI Utilities/less.md",
+                "file": "tools/Shell & CLI Utilities/pandoc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "less"
+              "title": "pandoc"
             }
           },
           {
-            "id": "229aaeb9f583c7a7",
+            "id": "32a5e68b37b69868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Shell & CLI Utilities/pdftoppm (for converting pdf pages to images).md",
+                "file": "performance/benchmarking/hey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pdftoppm (for converting pdf pages to images)"
+              "title": "hey"
             }
           },
           {
-            "id": "3367c705152c4d11",
+            "id": "6580c7250c1c43e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/android/adb.md",
+                "file": "performance/benchmarking/hey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adb"
-            }
-          },
-          {
-            "id": "1251f8f0226f2659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Word lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Word lists"
+              "title": "hey"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -180,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:\"John the Ripper\"",
+                "query": "file:\"arp-scan\"",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -215,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 312
   },
   "right": {
     "id": "55119876cd034640",
@@ -296,6 +254,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
@@ -305,35 +264,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1251f8f0226f2659",
+  "active": "68bae2f794e9287c",
   "lastOpenFiles": [
-    "tools/android/Users on Android.md",
+    "tools/Shell & CLI Utilities/eza.md",
+    "tools/Shell & CLI Utilities/pandoc.md",
+    "performance/benchmarking/hey.md",
+    "tools/Shell & CLI Utilities/less.md",
+    "tools/develop/mysql.md",
+    "tools/recon/arp-scan.md",
+    "tools/network tools/netdiscover.md",
     "tools/android/adb.md",
-    "portswigger/topics/server-side topics/Web cache deception.md",
     "tools/android/aapt.md",
+    "tools/android/Users on Android.md",
+    "portswigger/topics/server-side topics/Web cache deception.md",
+    "nmap/reference guide/4.Port Scanning Techniques.md",
+    "encoding/Polyglot file.md",
+    "packet analysis/practical packet analysis/7.network layer protocols/2.Internet Protocol (IP).md",
+    "linux/bash/black hat bash/6. gaining a web shell/3. Arbitrary File Upload Vulnerabilities.md",
+    "networking/CCNA V_7/Introduction to Networks/3. Protocols and Models/5. Reference Models.md",
+    "tools/Shell & CLI Utilities/pdftoppm (for converting pdf pages to images).md",
+    "tools/android/Run emulator.md",
+    "portswigger/Credentials.md",
+    "portswigger/Cheat sheet.md",
+    "portswigger/topics/__portswigger.md",
+    "Word lists.md",
     "tools/android/jadx.md",
     "tools/android/apktool - Decompile the APK.md",
-    "tools/Shell & CLI Utilities/pdftoppm (for converting pdf pages to images).md",
     "tools/Shell & CLI Utilities/pdfimages.md",
     "linux/bash/shell scripts/looping with for.md",
-    "tools/network tools/hostapd & dnsmasq (for  hotspot).md",
-    "linux/bash/shell scripts/Branching with if.md",
-    "linux/bash/shell scripts/flow control (while loop).md",
-    "tools/develop/jq (json).md",
-    "linux/NDG Linux/10 Working With Text/text processing/tools/grep.md",
-    "tools/Shell & CLI Utilities/less.md",
-    "curl/Client URL (curl).md",
-    "linux/NDG Linux/9 Archiving and Compression/4. ZIP Files.md",
-    "performance/articles/Loading test.md",
-    "performance/articles/Goals of load testing.md",
-    "portswigger/topics/client-side topics/Web cache deception.md",
     "offsec/PEN-103/introduction/Pasted image 20251028122208.png",
-    "tools/recon/dirsearch.md",
-    "tools/network tools/netdiscover.md",
-    "portswigger/topics/client-side topics/cross-site scripting (XSS)/5.XSS contexts.md",
-    "portswigger/topics/client-side topics/cross-site scripting (XSS)/2.Reflected XSS.md",
-    "portswigger/topics/client-side topics/cross-site scripting (XSS)/3.Stored XSS.md",
-    "portswigger/topics/client-side topics/cross-site scripting (XSS)/4.DOM-based XSS.md",
     "scapy",
     "bases.base",
     "tools/system & hardware & desktop utilities/utilities",

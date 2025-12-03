@@ -182,3 +182,15 @@ com.appsbunches.promateapp
 com.appsbunches.promate
 ```
 
+
+---
+
+# If you want to _check_ whether an app with a package name exists
+Even unpublished apps still appear in the Google Play **developer console**, but **NOT publicly**.
+Public tools can only tell you if it existed **before**:
+```
+https://www.apkmirror.com/?post_type=app&s=PACKAGE_NAME
+https://apkcombo.com/search/?q=PACKAGE_NAME
+https://www.appbrain.com/search?q=PACKAGE_NAME
+```
+
